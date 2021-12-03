@@ -1,6 +1,6 @@
 <h2>Тестовое задание РТК ИТ<img src="https://tinyurl.com/9uh9snsc" align="right" /></h2>
 
-<p><img src="https://media.giphy.com/media/K3hpGCoCeMlBLd9KCe/giphy.gif" width="200" align="right"/></p>
+<img src="https://media.giphy.com/media/K3hpGCoCeMlBLd9KCe/giphy.gif" alt="preview" width="200" align="right"/>
 
 <h3>Задача</h3>
 <p>Вам предлагается реализовать приложение, отображающее погоду.<br>Источник данных API Яндекс.Погода.<p/>
